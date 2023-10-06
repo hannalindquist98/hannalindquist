@@ -1,6 +1,9 @@
-h1 { color: rgb(91, 91, 91);
+h1 { background-color: darkcyan;
 }
 
 
-h1 { color: rgb(91, 91, 91);
+body {
+    font-family: 'Times New Roman', Times, serif ; background-color: rgb(251, 238, 213);
+   
 }
+     
